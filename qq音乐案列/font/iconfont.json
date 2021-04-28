@@ -1,0 +1,30 @@
+{
+  "id": "2480481",
+  "name": "qq音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12247925",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "18358843",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "19594586",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
